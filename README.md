@@ -1,6 +1,5 @@
-
 # Joy.py v4.4 - Pulso que Acontece + Independência
-# Autor: Alexander Krizóstomo Dias
+# Autor: Alexander Chrysostomo Dias
 # Data: 15/03/2026
 
 import time
